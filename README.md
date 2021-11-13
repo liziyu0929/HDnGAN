@@ -13,7 +13,7 @@ Keras implementation for HDnGAN
 
 ## 2. HDnGAN denoising efficacy
 
-Due to its novel hybrid architecture, HDnGAN can achieve high-fidelity denoising using limited numbers of training subjects. The following results were from network trained from ~25 subjects. This study was approved by the Mass General Brigham institutional review board and was HIPAA compliant. With written informed consent, data were acquired in 33 patients (20 for training, 5 for validation, 8 for evaluation) undergoing clinical evaluation for demyelinating disease at the Massachusetts General Hospital as part of a separate clinical validation study of Wave-CAIPI FLAIR compared to standard 3D T2-SPACE FLAIR41. All patients were scanned on a whole-body 3-Tesla MAGNETOM Prisma MRI scanner (Siemens Healthcare) equipped with a 20-channel head coil.
+Due to its novel hybrid architecture, HDnGAN can achieve high-fidelity denoising using limited numbers of training subjects. The following results were from network trained from ~25 subjects. This study was approved by the Mass General Brigham institutional review board and was HIPAA compliant. With written informed consent, data were acquired in 33 patients (20 for training, 5 for validation, 8 for evaluation) undergoing clinical evaluation for demyelinating disease at the Massachusetts General Hospital as part of a separate clinical validation study of Wave-CAIPI FLAIR compared to standard 3D T2-SPACE FLAIR. All patients were scanned on a whole-body 3-Tesla MAGNETOM Prisma MRI scanner (Siemens Healthcare) equipped with a 20-channel head coil.
 
 
 
