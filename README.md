@@ -31,7 +31,7 @@ Due to its novel hybrid architecture, HDnGAN can achieve high-fidelity denoising
 
 ## 3. Tutorial
 
-*To run the whole pipeline, simply run **s_HDnGAN_trainCNN.py** in python.*
+*To run the whole pipeline, simply run **HDnGAN_tutorial.ipynb** in Google Colab.*
 
 Version of Python: 3.7.9.
 
