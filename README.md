@@ -53,7 +53,7 @@ tensorflow-gpu    2.1.0.
 
 ## 4. Reference
 
-[1]  Li, Z., Tian, Q., Ngamsombat, C., Cartmell, S., Conklin, J., Gonçalves Filho, A. L. M., ... & Huang, S. Y. (2021). High-fidelity fast volumetric brain MRI using synergistic wave-controlled aliasing in parallel imaging and a hybrid denoising generative adversarial network. *bioRxiv*: https://www.biorxiv.org/content/10.1101/2021.01.07.425779v2.abstract. (Submitted to *Medical Physics*).
+[1]  Li, Z., Tian, Q., Ngamsombat, C., Cartmell, S., Conklin, J., Filho, A. L. M. G., ... & Huang, S. Y. (2021). High‐fidelity fast volumetric brain MRI using synergistic wave‐controlled aliasing in parallel imaging and a hybrid denoising generative adversarial network (HDnGAN). *Medical physics*.  https://doi.org/10.1002/mp.15427
 
  [2] Li, Z. Oral Presentation. The 2021 Annual Scientific Meeting of ISMRM. Video link: https://cds.ismrm.org/protected/21MPresentations/videos//0390.htm. (Magna Cum Laude Merit Award).
 
